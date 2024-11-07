@@ -1,0 +1,10 @@
+nome="Ricardo Assis"
+idade=39
+echo "Olá, meu nome é $nome e eu tenho $idade anos"
+Teremos como retorno:
+-> Olá, meu nome é Ricardo Assis e eu tenho 39 anos
+
+podemos também criar uma function:
+-> function saudacao (){ echo "Olá $1! Bem vindo a mentoria DevOps Cloud"}
+--> ao inserirmos o comando >> saudacao Ricardo <<, automaticamente teremos o retorno >> Olá Ricardo! Bem vindo a mentoria DevOps Cloud <<
+
