@@ -8,3 +8,11 @@ podemos também criar uma function:
 -> function saudacao (){ echo "Olá $1! Bem vindo a mentoria DevOps Cloud"}
 --> ao inserirmos o comando >> saudacao Ricardo <<, automaticamente teremos o retorno >> Olá Ricardo! Bem vindo a mentoria DevOps Cloud <<
 
+array
+
+numero=(10 20 30 40 50)
+frutas=("banana" "maçã" "laranja")
+
+data_atual=$(date +%Y-%m-%d)
+
+
