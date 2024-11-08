@@ -15,4 +15,3 @@ frutas=("banana" "maçã" "laranja")
 
 data_atual=$(date +%Y-%m-%d)
 
-
